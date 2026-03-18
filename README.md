@@ -1,6 +1,6 @@
-# Astro 5 Base for personal web projects
+# Astro 6 Base for personal web projects
 
-- Barebones Astro 5 project 
+- Barebones Astro 6 project 
 - TailwindCSS 4
 - Sitemap integration
 - Prettier integration
